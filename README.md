@@ -7,14 +7,3 @@ O Desafio é criar uma pagina website totalmente responsiva, somente com HTML &a
 - Layout: Na visualização do tablet (entre 768px e 991px, inclusive), as 2 primeiras seções devem estar na primeira linha e ter o mesmo tamanho. A 3ª seção deve estar na segunda linha e ocupar toda a linha sozinha.
 
 - Layout: na visualização móvel (igual ou inferior a 767 px), cada seção deve ocupar a linha inteira.
-
-### VISUALIZAÇÃO DO PROJETO
-
-#### desktop
-<img src="img/desktop.png">
-
-#### tablet
-<img src="img/tablet.png">
-
-#### mobile
-<img src="img/mobile.png">
